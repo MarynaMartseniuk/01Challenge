@@ -1,4 +1,5 @@
-# Horiseon Co WebPage Optimisation
+# Horiseon Co WebPage 
+#### Optimisation of web page accessibility
 
 # User Story
 
@@ -20,3 +21,5 @@
 #### WHEN I view the title element
 #### THEN I find a concise, descriptive title
 
+## Screen Shot of a WebPage
+![WebPage as it looks like](https://github.com/MarynaMartseniuk/01Challenge/blob/main/assets/images/web-screen-shot.png)
