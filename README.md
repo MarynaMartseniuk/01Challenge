@@ -1,5 +1,5 @@
 # Horiseon Co WebPage 
-#### Optimisation of web page accessibility
+#### Project: Optimisation of a web page accessibility
 
 # User Story
 
